@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Donations for Earthquake in Turkey</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/turkiye1" />
       </Head>
       <div className={styles.headerStyle}>
         <div className={styles.upperlinksStyle}>
