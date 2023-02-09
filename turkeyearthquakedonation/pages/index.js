@@ -33,7 +33,7 @@ export default function Home() {
 
         <div className={styles.center}>
           <h1>Earthquake in Turkey</h1>
-          <p>On February 6th, Turkey woke up with devastating news by two massive earthquakes that affected over 10 cities. Death toll climbed to 7,926 in Turkey as of now and thousands of people are on the streets waiting to be rescued. It is currently snowing in some of these cities and we are in need of any amount of donation to help them survive. <br></br><br></br> As the Turkish Student Association at the University of Michigan, we have collected $5047 to help those who are in need. Please contribute to our fundraiser by clicking <a style={{color: "white"}} href='https://venmo.com/u/TurkishStudentAssociation'>donate now!</a>
+          <p>On February 6th, Turkey woke up with devastating news by two massive earthquakes that affected over 10 cities. Death toll climbed to 16,170 in Turkey as of now and thousands of people are on the streets waiting to be rescued. It is currently snowing in some of these cities and we are in need of any amount of donation to help them survive. <br></br><br></br> As the Turkish Student Association at the University of Michigan, we have collected $5047 to help those who are in need. Please contribute to our fundraiser by clicking <a style={{color: "white"}} href='https://venmo.com/u/TurkishStudentAssociation'>donate now!</a>
   </p>
           
         </div>
